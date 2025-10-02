@@ -1,3 +1,3 @@
-## Hi there 👋 Welcome to my Github!
+## About Me
 
-My Name is Akul. Thanks for visiting my page. I'm currently working on Ariadne, go ahead and check it out at my page!
+Hello there! My name is Akul Kudari, and I am currently a 4th year Computer Engineering Student at UC San Diego. My biggest interests are Machine Learning, Computer Vision, and Artificial Intelligence for predictive algorithms, unsupervised learning, and image processing. My best projects are pinned.
